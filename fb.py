@@ -20,12 +20,8 @@ else:
 try:
 	import requests
 except ImportError:
-	print R + '_     _'.center(44)
-	print "o' \.=./ `o".center(44)
-	print '(o o)'.center(44)
-	print 'ooO--(_)--Ooo'.center(44)
-	print W + ' '
-	print ('F B I').center(44)
+	print E҉M҉O҉N҉
+	print ('F B Bot').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
