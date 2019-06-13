@@ -24,7 +24,7 @@ except ImportError:
 	print "o' \.=./ `o".center(44)
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
-	print W + ' '
+	print  W+ ' '
 	print ('').center(44)
 	print' ______'.center(44)
         Print'|  ____|'.center(44)
