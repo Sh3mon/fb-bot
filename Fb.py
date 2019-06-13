@@ -67,10 +67,11 @@ def show_program():
  ------------------------------------------------------
 
     Author     Hak9
-    Name       Facebook Information
+    Modified By Emon
+    Name       Facebook Bot
     Version    Full Version
     Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    
 
 * if you find any errors or problems , please contact
   author
