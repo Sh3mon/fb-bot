@@ -26,13 +26,12 @@ except ImportError:
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
 	print ('').center(44)
-	print '
-  ______
- |  ____|
- | |__   _ __ ___   ___  _ __
- |  __| | '_ ` _ \ / _ \| '_ \
- | |____| | | | | | (_) | | | |
- |______|_| |_| |_|\___/|_| |_|
+	print' ______'.center(44)
+        Print'|  ____|'.center(44)
+        Print'| |__   _ __ ___   ___  _ __'.center(44)
+        Print'|  __| | '_ ` _ \ / _ \| '_ \'.center(44)
+        Print'| |____| | | | | | (_) | | | |'.center(44)
+        Print'|______|_| |_| |_|\___/|_| |_|'.center(44)
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
 ####################################################################
